@@ -1,0 +1,15 @@
+/home/saint/Desktop/AverageNumbers/bin/Debug/net6.0/AverageNumbers
+/home/saint/Desktop/AverageNumbers/bin/Debug/net6.0/AverageNumbers.deps.json
+/home/saint/Desktop/AverageNumbers/bin/Debug/net6.0/AverageNumbers.runtimeconfig.json
+/home/saint/Desktop/AverageNumbers/bin/Debug/net6.0/AverageNumbers.dll
+/home/saint/Desktop/AverageNumbers/bin/Debug/net6.0/AverageNumbers.pdb
+/home/saint/Desktop/AverageNumbers/obj/Debug/net6.0/AverageNumbers.csproj.AssemblyReference.cache
+/home/saint/Desktop/AverageNumbers/obj/Debug/net6.0/AverageNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/AverageNumbers/obj/Debug/net6.0/AverageNumbers.AssemblyInfoInputs.cache
+/home/saint/Desktop/AverageNumbers/obj/Debug/net6.0/AverageNumbers.AssemblyInfo.cs
+/home/saint/Desktop/AverageNumbers/obj/Debug/net6.0/AverageNumbers.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/AverageNumbers/obj/Debug/net6.0/AverageNumbers.dll
+/home/saint/Desktop/AverageNumbers/obj/Debug/net6.0/refint/AverageNumbers.dll
+/home/saint/Desktop/AverageNumbers/obj/Debug/net6.0/AverageNumbers.pdb
+/home/saint/Desktop/AverageNumbers/obj/Debug/net6.0/AverageNumbers.genruntimeconfig.cache
+/home/saint/Desktop/AverageNumbers/obj/Debug/net6.0/ref/AverageNumbers.dll
